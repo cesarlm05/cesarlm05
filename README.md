@@ -1,3 +1,22 @@
+![This is me](https://github.com/cesarlm05/cesarlm05/blob/f6f4e0d9da157c66e02f5b76d553e88299332eaa/profile.jpeg)
+
+```css
+/* _components.scss - Estilos para los forms */
+input {
+    width: 70%;
+    margin-top: 5%;
+    padding: 5%;
+    &:hover {
+      @include fontStyles(
+        12px,
+        $septenary-color,
+        $senary-color
+      ); // Font-size, color, background-color
+      font-size: medium;
+    }
+  }
+```
+
 ### Hi there 👋
 
 

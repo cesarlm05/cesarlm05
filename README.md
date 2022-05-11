@@ -1,5 +1,10 @@
 ![This is me](https://github.com/cesarlm05/cesarlm05/blob/f6f4e0d9da157c66e02f5b76d553e88299332eaa/profile.jpeg)
 
+
+<img
+style="border: 3px solid rgb(28, 151, 0) ; border-radius: 50%; width: 200px; height: 200px;"
+src="https://raw.githubusercontent.com/cesarlm05/cesarlm05/f6f4e0d9da157c66e02f5b76d553e88299332eaa/profile.jpeg">
+
 <h1 align="center">Hi 👋, I'm César Medina</h1>
 <h3 align="center">Soy estudiante de Carrera online de Desarrollo Full Stack en coderhouse, mi interés es incorporarme a una empresa de desarrollo web aportando mi predisposición y todo mi esfuerzo en el crecimiento de la empresa tanto como mi crecimiento personal.</h3>
 

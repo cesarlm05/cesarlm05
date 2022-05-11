@@ -1,9 +1,10 @@
 <!-- ![This is me](https://github.com/cesarlm05/cesarlm05/blob/f6f4e0d9da157c66e02f5b76d553e88299332eaa/profile.jpeg) -->
-<img src="https://raw.githubusercontent.com/cesarlm05/cesarlm05/f6f4e0d9da157c66e02f5b76d553e88299332eaa/profile.jpeg" alt="Me" width="200" height="200" border-radius="50"/>
+<p align="center"> <img style="border: 3px solid rgb(28, 151, 0) ; border-radius: 50%; width: 200px; height: 200px;"
+src="https://raw.githubusercontent.com/cesarlm05/cesarlm05/f6f4e0d9da157c66e02f5b76d553e88299332eaa/profile.jpeg"> </p>
+
 
 <h1 align="center">Hi 👋, I'm César Medina</h1>
 <h3 align="center">Soy estudiante de Carrera online de Desarrollo Full Stack en coderhouse, mi interés es incorporarme a una empresa de desarrollo web aportando mi predisposición y todo mi esfuerzo en el crecimiento de la empresa tanto como mi crecimiento personal.</h3>
-
 
 **cesarlm05/cesarlm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,9 +12,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning on coderhouse ...
+
 ```html
-<p>Soy estudiante de la Carrera de Desarrollo Full Stack en coderhouse.</p> 
+<p>Soy estudiante de la Carrera de Desarrollo Full Stack en coderhouse.</p>
 ```
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,12 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@cesarlm05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@cesarlm05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/cesar-medina-57b436128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cesar-medina-57b436128" height="30" width="40" /></a>
+<a href="https://codepen.io/@cesarlm05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@cesarlm05" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/cesar-medina-57b436128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cesar-medina-57b436128" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlm05&show_icons=true&locale=en&layout=compact" alt="cesarlm05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarlm05&show_icons=true&locale=en" alt="cesarlm05" /></p>
+

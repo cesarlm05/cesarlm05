@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@cesarlm05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@cesarlm05" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/cesar-medina-57b436128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cesar-medina-57b436128" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/cesar-medina-57b436128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cesar-medina-57b436128" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

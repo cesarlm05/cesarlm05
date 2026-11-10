@@ -4,7 +4,16 @@ src="https://raw.githubusercontent.com/cesarlm05/cesarlm05/f6f4e0d9da157c66e02f5
 
 
 <h1 align="center">Hi 👋, I'm César Medina</h1>
-<h3 align="center">Soy estudiante de Carrera online de Desarrollo Full Stack en coderhouse, mi interés es incorporarme a una empresa de desarrollo web aportando mi predisposición y todo mi esfuerzo en el crecimiento de la empresa tanto como mi crecimiento personal.</h3>
+<h3 align="center">Especialista en Ecommerce y Marketplace con más de 8 años de experiencia en el sector comercial. Desde marzo de 2018 me desempeño en VIVRE (ACB sa), donde estoy a cargo del desarrollo y la optimización de las ventas online de la empresa.
+Mi gestión se enfoca en el posicionamiento y administración integral de cuentas en Mercado Libre y otros marketplace, abarcando desde la creación y optimización visual de publicaciones hasta la programación de ofertas y campañas de descuento. Además, desarrollé e integré la tienda web oficial de la empresa con Mercado Libre, centralizando y eficientizando el procesamiento de pedidos de ambos canales.
+Experiencia laboral
+Responsable de Ecommerce & Marketplace
+VIVRE – ACB sa
+Marzo de 2018 – Actualidad
+Gestión integral y optimización de las cuentas oficiales en Mercado Libre y marketplaces secundarios.
+Programación y administración de campañas de descuentos, promociones y ofertas estratégicas.
+Creación, diseño y mantenimiento de publicaciones para maximizar la visibilidad y conversión de productos.
+Desarrollo e integración de la tienda web propia conectada con Mercado Libre para la gestión unificada de ventas y stock..</h3>
 
 **cesarlm05/cesarlm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
